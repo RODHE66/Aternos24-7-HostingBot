@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "dominateboxafk",
+    "username": "joymc.aternos.me",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "dominatebox.aternos.me",
+    "ip": "joymc.aternos.me",
     "port": 36234,
     "version": "",
     "try-creative": false
